@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Diving into the Depths of Data: Tegas' Journey from Marine Science to Aspiring Data Analyst/Scientist
 
-🔭 I’m currently looking new experience on data analysis/science 
-🌱 I'm currently studying at Masters in Astronomy, ITB
-👯 I’m looking to collaborate on Data Science Project
+- 🔭 I’m currently looking new experience on data analysis/science 
+- 🌱 I'm currently studying at Masters in Astronomy, ITB
+- 👯 I’m looking to collaborate on Data Science Project
 
 💻 Competencies
 - Data preparation, data manipulation, and data cleansing
