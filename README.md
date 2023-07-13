@@ -1,4 +1,4 @@
-### Hi there, I'm Tegas Gagas Impian P Noviardhana 👋
+### Hi there, I'm Tegas 👋
 
 <!--
 **noviardhana/noviardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Diving into the Depths of Data: Tegas' Journey from Marine Science to Aspiring Data Analyst/Scientist
 
 💻 Competencies
 - Data preparation, data manipulation, and data cleansing
