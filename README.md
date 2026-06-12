@@ -14,7 +14,7 @@ Welcome to my GitHub! I am a passionate data enthusiast with a unique background
 - 🌱 I'm currently expanding my analytical horizons by studying a **Master's in Astronomy at Institut Teknologi Bandung (ITB)**.
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning, and Astrophysics projects**.
 - 💬 Ask me about: Data manipulation, mathematical modeling, and finding the story behind the numbers.
-- 📫 How to reach me: [Tautan LinkedIn Kamu] | [Email Kamu]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noviardhana/) | [mail](tegasgagasimpian@gmail.com)
 
 ---
 
