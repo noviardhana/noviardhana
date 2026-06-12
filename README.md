@@ -44,11 +44,13 @@ Welcome to my GitHub! I am a passionate data enthusiast with a unique background
 
 *(Kamu bisa menautkan repositori GitHub-mu di setiap nama proyek di bawah ini)*
 
-*   **[NASA ADS RAG System](link-repo-kamu):** Built a Retrieval-Augmented Generation (RAG) system based on the NASA Astrophysics Data System (ADS) to efficiently extract and summarize astronomical literature.
-*   **[Medical Tumor Classification](link-repo-kamu):** Developed a breast cancer classification model utilizing Support Vector Machines (SVM) to predict whether a tumor is benign or malignant.
-*   **[Epidemiological Simulation](link-repo-kamu):** Created mathematical simulations using the SIR model to analyze proxy epidemiological infection and recovery rate data using Python.
+*   **[NASA ADS RAG System](https://github.com/noviardhana/astro-rag-assistant):** Built a Retrieval-Augmented Generation (RAG) system based on the NASA Astrophysics Data System (ADS) to efficiently extract and summarize astronomical literature.
+*   **[Rice Image Classification](https://github.com/noviardhana/Rice-Image-Classification):** Designed a Deep Learning model based on Convolutional Neural Networks (CNN) to automatically classify five rice varieties (Arborio, Basmati, Ipsala, Jasmine, and Karacadag) with high accuracy.
+*   **[ETL Fashion Pipeline: Dicoding Fashion Studio](https://github.com/noviardhana/etl-fashion-pipeline):** Built an automated Python-based ETL (Extract, Transform, Load) pipeline to perform web scraping, data transformation, and simultaneous multi-target data loading from a sandbox environment.
+*   **[Comprehensive Data Portfolio (Sanbercode)](https://github.com/noviardhana/porto-sanbercode):** A curated collection of projects covering the complete data lifecycle, featuring automated data pipelines, web scraping, predictive machine learning modeling, and recommendation systems.
 
 ---
+![Tegas's GitHub stats](https://github-readme-stats.vercel.app/api?username=noviardhana&show_icons=true&theme=radical)
 
 <div align="center">
   <i>"In data we trust, from the oceans to the stars."</i>
